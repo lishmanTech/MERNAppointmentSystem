@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93221ead.css",
+    "main.js": "/static/js/main.e925e872.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sc-logo.png": "/static/media/sc-logo.6c4cc84531a483f474f5.png",
+    "index.html": "/index.html",
+    "main.93221ead.css.map": "/static/css/main.93221ead.css.map",
+    "main.e925e872.js.map": "/static/js/main.e925e872.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93221ead.css",
+    "static/js/main.e925e872.js"
+  ]
+}
